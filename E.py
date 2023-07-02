@@ -63,10 +63,3 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-
-# Task F: Propose a different appropriate Adaptive algorithm and compare it to the NLMS algorithm.
-
-# TODO: Implement a different adaptive algorithm of your choice
-# (e.g., LMS, RLS, APA, etc.) and compare its performance to the NLMS algorithm.
-
-
